@@ -1,6 +1,6 @@
 # gitlab02p01
 
-# Developer: MR.NAM
+# Developer: Tran Quang Huy
 A calculator that calculates simple interest given principal, annual rate of interest and time
 period in years.
 Input:
